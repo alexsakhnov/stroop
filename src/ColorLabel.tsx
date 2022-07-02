@@ -7,7 +7,7 @@ type ColorLabelProps = {
 };
 
 const Label = styled.div`
-    font-size: 2em;
+    font-size: 2.8em;
 `;
   
 const ColorLabel = ({color, label}: ColorLabelProps) => <Label style={{color: color}}>{label}</Label>

@@ -3,9 +3,15 @@ import ColorLabel from './ColorLabel';
 import TypeLabel from './TypeLabel';
 import Timer from './Timer';
 import Game from './Game';
-import styled from 'styled-components';
+import styled, {createGlobalStyle} from 'styled-components';
+
+const FontStyles = createGlobalStyle`
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+`;
 
 const StyledApp = styled.div`
+  font-family: 'Montserrat', sans-serif;
+
   max-width: 500px;
   text-align: center;
   margin: auto;
@@ -23,7 +29,8 @@ const StyledApp = styled.div`
 function App() {
   return (
     <StyledApp className="App">
-        <Game endTime={(new Date).getTime() + 45000}/>
+        <FontStyles/>
+        <Game duration={45}/>
     </StyledApp>
   );
 }

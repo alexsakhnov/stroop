@@ -6,7 +6,7 @@ type TypeLabelProps = {
   };
   
   const Label = styled.div`
-    font-size: 2em;
+    font-size: 3em;
 `;
 
 const TypeLabel = ({label}: TypeLabelProps) => <Label>{label}</Label>

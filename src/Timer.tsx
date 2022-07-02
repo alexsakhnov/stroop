@@ -6,7 +6,7 @@ type TimerProps = {
 };
 
 const Label = styled.div`
-    font-size: 2em;
+    font-size: 3em;
 `;
   
 const Timer = ({secondsLeft}: TimerProps) => {
