@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/stroop/static/css/main.e6c13ad2.css",
-    "main.js": "/stroop/static/js/main.420422e8.js",
-    "static/js/787.4d3e617a.chunk.js": "/stroop/static/js/787.4d3e617a.chunk.js",
-    "index.html": "/stroop/index.html",
-    "main.e6c13ad2.css.map": "/stroop/static/css/main.e6c13ad2.css.map",
-    "main.420422e8.js.map": "/stroop/static/js/main.420422e8.js.map",
-    "787.4d3e617a.chunk.js.map": "/stroop/static/js/787.4d3e617a.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.420422e8.js"
-  ]
+  "main.css": "/stroop/static/css/main.a04358e9.chunk.css",
+  "main.js": "/stroop/static/js/main.1d4e7226.chunk.js",
+  "main.js.map": "/stroop/static/js/main.1d4e7226.chunk.js.map",
+  "static/js/1.c972895f.chunk.js": "/stroop/static/js/1.c972895f.chunk.js",
+  "static/js/1.c972895f.chunk.js.map": "/stroop/static/js/1.c972895f.chunk.js.map",
+  "static/js/2.c8cc87d7.chunk.js": "/stroop/static/js/2.c8cc87d7.chunk.js",
+  "static/js/2.c8cc87d7.chunk.js.map": "/stroop/static/js/2.c8cc87d7.chunk.js.map",
+  "runtime~main.js": "/stroop/static/js/runtime~main.1ddc3f20.js",
+  "runtime~main.js.map": "/stroop/static/js/runtime~main.1ddc3f20.js.map",
+  "static/css/main.a04358e9.chunk.css.map": "/stroop/static/css/main.a04358e9.chunk.css.map",
+  "index.html": "/stroop/index.html",
+  "precache-manifest.15c8fe3558687eb7af7f0d148af2877d.js": "/stroop/precache-manifest.15c8fe3558687eb7af7f0d148af2877d.js",
+  "service-worker.js": "/stroop/service-worker.js"
 }
